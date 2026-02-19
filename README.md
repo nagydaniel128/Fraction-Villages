@@ -11,9 +11,9 @@ The main goal of the project was to experiment with AI coordination, combat inte
 - Health-based self-preservation logic (units retreat to heal when injured)
 - Alert system: units notify nearby allies when detecting enemies
 - Coordinated combat behavior:
- - Target information sharing between allies
- - Surround positioning logic
- - Stun, shield, shield-piercing and dodge mechanics
+   * Target information sharing between allies
+   * Surround positioning logic
+   * Stun, shield, shield-piercing and dodge mechanics
 - Multiple factions with different base stats and hostile interactions
 - Dynamic large-scale combat scenarios
 - Day/Night cycle
